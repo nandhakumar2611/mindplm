@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mindplm/static/css/main.087ac91f.css",
+    "main.js": "/mindplm/static/js/main.febb56d3.js",
+    "static/js/787.b007e9aa.chunk.js": "/mindplm/static/js/787.b007e9aa.chunk.js",
+    "static/media/jobcardtask.svg": "/mindplm/static/media/jobcardtask.6fe462f726c05de62986821cb330b209.svg",
+    "static/media/girl.svg": "/mindplm/static/media/girl.9e7e7f71722368a9a3ccb4e9d4aec8b4.svg",
+    "index.html": "/mindplm/index.html",
+    "main.087ac91f.css.map": "/mindplm/static/css/main.087ac91f.css.map",
+    "main.febb56d3.js.map": "/mindplm/static/js/main.febb56d3.js.map",
+    "787.b007e9aa.chunk.js.map": "/mindplm/static/js/787.b007e9aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.087ac91f.css",
+    "static/js/main.febb56d3.js"
+  ]
+}
