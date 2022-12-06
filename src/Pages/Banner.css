@@ -1,0 +1,19 @@
+.custom-container
+{
+    background-color: #0c24c9;
+    width:100%;
+}
+.custom-padding-text
+{
+    padding-top: 150px;
+}
+.custom-btn
+{
+    border-radius: 0px;
+}
+
+.custom-btn:hover
+{
+    background: #0c24c9;
+    color:#ffffff
+}

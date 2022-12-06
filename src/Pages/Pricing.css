@@ -1,0 +1,15 @@
+.custom-card-height
+{
+    height:25%;
+}
+
+.custom-font
+{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.started-btn
+{
+    background: #0c24c9;
+    color: #ffffff;
+}
